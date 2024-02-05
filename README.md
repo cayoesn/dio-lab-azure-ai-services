@@ -1,9 +1,9 @@
+!["dio_logo"](https://digitalinnovationone.github.io/roadmaps/assets/logo-dio.svg)
+
 # dio-lab-azure-ai-services
 Repositório do desafio DIO - Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
 Neste projeto nos trabalhamos implementação de um modelo de reconhecimento de imagens utilizando o serviço Azure AI Services do Azure. Onde podemos ver diversas aplicações e possibilidades de uso de inteligência artificial com imagens.
-
-!["dio_logo"](https://www.ifsc.edu.br/documents/1035121/2170426/dio.png/ab47310a-b7a6-49d2-b3c1-72e88a7c99ed?t=1625144670996)
 
 ## Passos para realização do desafio
 
